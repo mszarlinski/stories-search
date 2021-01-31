@@ -1,3 +1,3 @@
-#Stories Search Service
+# Stories Search Service
 
-Microservice responsible for providing searching stories capabilities using ElasticSearch index
+Microservice providing searching stories capabilities using ElasticSearch index
